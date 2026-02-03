@@ -1,0 +1,5 @@
+# Hide Data files (Confidential content, must be manually requested by the user)
+/data
+
+# Virtual environment folder
+/.venv

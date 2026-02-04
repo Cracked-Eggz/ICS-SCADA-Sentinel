@@ -3,3 +3,5 @@
 
 # Virtual environment folder
 /.venv
+
+/venv

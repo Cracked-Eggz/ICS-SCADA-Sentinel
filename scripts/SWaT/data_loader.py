@@ -51,7 +51,7 @@ def load_swat_data(data_path):
 
 # Quick test block
 if __name__ == "__main__":
-    sample_path = "../../SWaT.A7_June 2020"
+    sample_path = "../../data/SWaT.A4 & A5_Jul 2019"
     df = load_swat_data(sample_path)
     if df is not None:
         print(df.head())
